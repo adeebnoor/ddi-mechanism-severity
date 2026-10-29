@@ -1,0 +1,5 @@
+grade,drugbank_mapped,drugbank_confirmed,kegg_mapped,kegg_confirmed
+Major,44,11,57,20
+Moderate,246,37,268,95
+Minor,26,2,28,4
+Unknown,856,23,890,85

@@ -1,0 +1,8 @@
+audit_category,pairs
+"Attributed protein, same direction",7
+"Attributed protein, opposite direction",1
+Different enzyme (CYP2D6 bioactivation of tamoxifen),5
+Pharmacodynamic,3
+Absorption (gastric pH),2
+Inducer of another enzyme,1
+No mechanism given,1

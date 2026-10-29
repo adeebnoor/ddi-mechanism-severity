@@ -1,0 +1,7 @@
+primary_mechanism,Minor,Moderate,Major
+Synergistic,9,278,259
+MetabolismInhibition,1,52,198
+MetabolismInduction,3,52,54
+ProteinBinding,0,6,20
+Additive,2,15,1
+"Other (TransporterInhibition 8, MultiPathways 4, TransporterInduction 1)",0,4,9
