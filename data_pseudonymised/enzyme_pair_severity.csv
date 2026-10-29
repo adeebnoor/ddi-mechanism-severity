@@ -1,0 +1,971 @@
+CID_A,drug_A,CID_B,drug_B,enzyme_gene,uniprot,direction,severity
+59,D059,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+59,D059,129,D129,CYP3A4,P08684,inhibition,Moderate
+26,D026,78,D078,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+26,D026,78,D078,PTGS2,P35354,inhibition,Moderate
+98,D098,129,D129,CYP2D6,P10635,inhibition,Moderate
+98,D098,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+26,D026,57,D057,CYP3A4,P08684,inhibition,Moderate
+26,D026,90,D090,CYP3A4,P08684,induction,Moderate
+26,D026,90,D090,CYP3A4,P08684,inhibition,Moderate
+38,D038,165,D165,CYP2C9,P11712,induction,Moderate
+38,D038,165,D165,CYP3A4,P08684,inhibition,Moderate
+81,D081,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+81,D081,129,D129,CYP3A4,P08684,inhibition,Moderate
+26,D026,123,D123,CYP3A4,P08684,inhibition,Moderate
+25,D025,26,D026,CYP2D6,P10635,inhibition,Moderate
+1,D001,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+111,D111,165,D165,CYP3A4,P08684,inhibition,Minor
+120,D120,130,D130,CYP2C9,P11712,inhibition,Moderate
+120,D120,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+120,D120,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+26,D026,74,D074,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+26,D026,74,D074,CYP2C9,P11712,inhibition,Moderate
+26,D026,30,D030,CYP2D6,P10635,inhibition,Moderate
+10,D010,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+10,D010,129,D129,CYP3A4,P08684,inhibition,Moderate
+46,D046,130,D130,CYP3A4,P08684,induction,Moderate
+46,D046,130,D130,CYP3A4,P08684,inhibition,Moderate
+87,Leflunomide,125,D125,CYP1A2,P05177,inhibition,Major
+29,D029,133,D133,CYP1A2,P05177,inhibition,Moderate
+29,D029,133,D133,CYP3A5,P20815,induction,Moderate
+26,D026,137,D137,CYP2D6,P10635,inhibition,Minor
+26,D026,67,D067,CYP3A4,P08684,inhibition,Moderate
+51,D051,87,Leflunomide,CYP1A2,P05177,inhibition,Major
+92,D092,165,D165,CYP2C9,P11712,induction,Moderate
+92,D092,165,D165,CYP3A4,P08684,inhibition,Moderate
+26,D026,121,D121,CYP2D6,P10635,inhibition,Moderate
+112,D112,130,D130,CYP3A4,P08684,induction,Moderate
+112,D112,130,D130,CYP3A4,P08684,inhibition,Moderate
+25,D025,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+25,D025,129,D129,CYP3A4,P08684,inhibition,Moderate
+103,D103,172,D172,CYP1A2,P05177,induction,Minor
+103,D103,172,D172,CYP1A2,P05177,inhibition,Minor
+30,D030,129,D129,CYP3A4,P08684,inhibition,Minor
+75,D075,129,D129,CYP3A4,P08684,inhibition,Moderate
+75,D075,129,D129,CYP3A4,P08684,induction,Moderate
+87,Leflunomide,99,D099,CYP2C9,P11712,inhibition,Moderate
+37,D037,149,D149,CYP3A4,P08684,inhibition,Moderate
+37,D037,149,D149,CYP3A4,P08684,induction,Moderate
+37,D037,149,D149,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+37,D037,149,D149,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+26,D026,143,D143,CYP3A4,P08684,inhibition,Moderate
+26,D026,98,D098,CYP2D6,P10635,inhibition,Moderate
+26,D026,136,D136,CYP2D6,P10635,inhibition,Moderate
+110,D110,133,D133,CYP1A2,P05177,inhibition,Moderate
+103,D103,148,D148,CYP3A4,P08684,induction,Moderate
+103,D103,148,D148,CYP2C9,P11712,inhibition,Moderate
+99,D099,165,D165,CYP3A4,P08684,inhibition,Moderate
+65,D065,129,D129,CYP2C9,P11712,inhibition,Moderate
+57,D057,150,D150,CYP3A4,P08684,inhibition,Major
+57,D057,150,D150,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+131,D131,133,D133,CYP2C19,P33261,inhibition,Moderate
+13,D013,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+44,D044,132,D132,CYP3A4,P08684,inhibition,Minor
+44,D044,132,D132,CYP3A4,P08684,induction,Minor
+26,D026,83,D083,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+26,D026,83,D083,CYP2C9,P11712,inhibition,Moderate
+72,D072,129,D129,CYP2D6,P10635,inhibition,Moderate
+10,D010,133,D133,CYP3A5,P20815,induction,Moderate
+10,D010,133,D133,CYP1A2,P05177,inhibition,Moderate
+9,D009,133,D133,CYP3A5,P20815,induction,Moderate
+9,D009,133,D133,CYP2C19,P33261,inhibition,Moderate
+29,D029,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+29,D029,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+29,D029,130,D130,CYP3A4,P08684,induction,Moderate
+29,D029,130,D130,CYP3A4,P08684,inhibition,Moderate
+130,D130,148,D148,CYP3A4,P08684,induction,Minor
+130,D130,148,D148,CYP2C9,P11712,inhibition,Minor
+30,D030,133,D133,CYP2C19,P33261,inhibition,Moderate
+37,D037,133,D133,CYP3A5,P20815,induction,Major
+37,D037,133,D133,CYP2C19,P33261,inhibition,Major
+58,D058,160,D160,CYP2C9,P11712,inhibition,Moderate
+133,D133,136,D136,CYP2C19,P33261,inhibition,Moderate
+26,D026,138,D138,CYP3A4,P08684,inhibition,Moderate
+1,D001,130,D130,CYP3A4,P08684,induction,Major
+1,D001,130,D130,CYP3A4,P08684,inhibition,Major
+162,D162,165,D165,CYP3A4,P08684,inhibition,Moderate
+99,D099,133,D133,CYP2C9,P11712,inhibition,Moderate
+44,D044,148,D148,CYP3A4,P08684,induction,Moderate
+44,D044,148,D148,CYP2C9,P11712,inhibition,Moderate
+34,D034,165,D165,CYP1A2,P05177,inhibition,Moderate
+26,D026,119,D119,CYP2D6,P10635,inhibition,Moderate
+26,D026,69,D069,CYP3A4,P08684,inhibition,Moderate
+26,D026,69,D069,CYP2D6,P10635,induction,Moderate
+26,D026,99,D099,CYP3A4,P08684,inhibition,Moderate
+58,D058,99,D099,CYP2C9,P11712,inhibition,Moderate
+26,D026,64,D064,CYP3A4,P08684,induction,Moderate
+26,D026,64,D064,CYP3A4,P08684,inhibition,Moderate
+22,D022,148,D148,CYP3A4,P08684,induction,Moderate
+22,D022,148,D148,CYP2C9,P11712,inhibition,Moderate
+116,D116,133,D133,CYP2C9,P11712,inhibition,Moderate
+3,D003,37,D037,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+3,D003,37,D037,CYP3A4,P08684,induction,Moderate
+3,D003,37,D037,CYP3A4,P08684,inhibition,Moderate
+133,D133,143,D143,CYP2C19,P33261,inhibition,Moderate
+92,D092,133,D133,CYP3A5,P20815,induction,Moderate
+92,D092,133,D133,CYP2C19,P33261,inhibition,Moderate
+119,D119,129,D129,CYP3A4,P08684,inhibition,Moderate
+26,D026,84,D084,PTGS2,P35354,inhibition,Major
+89,D089,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+89,D089,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+89,D089,130,D130,CYP3A4,P08684,induction,Moderate
+89,D089,130,D130,CYP3A4,P08684,inhibition,Moderate
+129,D129,133,D133,CYP3A5,P20815,induction,Moderate
+129,D129,133,D133,CYP2C19,P33261,inhibition,Moderate
+5,D005,130,D130,CYP3A4,P08684,induction,Moderate
+5,D005,130,D130,CYP3A4,P08684,inhibition,Moderate
+122,D122,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+122,D122,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+122,D122,130,D130,CYP3A4,P08684,induction,Moderate
+122,D122,130,D130,CYP3A4,P08684,inhibition,Moderate
+26,D026,120,D120,CYP2C9,P11712,inhibition,Moderate
+32,D032,75,D075,CYP3A4,P08684,inhibition,Moderate
+32,D032,75,D075,CYP3A4,P08684,induction,Moderate
+30,D030,130,D130,CYP3A4,P08684,induction,Major
+30,D030,130,D130,CYP3A4,P08684,inhibition,Major
+59,D059,133,D133,CYP3A5,P20815,induction,Moderate
+59,D059,133,D133,CYP2C19,P33261,inhibition,Moderate
+83,D083,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+26,D026,41,D041,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+26,D026,41,D041,CYP2C9,P11712,inhibition,Moderate
+37,D037,67,D067,CYP3A4,P08684,inhibition,Moderate
+37,D037,67,D067,CYP3A4,P08684,induction,Moderate
+37,D037,67,D067,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+129,D129,145,D145,CYP3A4,P08684,inhibition,Moderate
+133,D133,155,D155,CYP2C9,P11712,inhibition,Moderate
+133,D133,155,D155,CYP2C9,P11712,induction,Moderate
+26,D026,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+52,D052,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+99,D099,147,D147,CYP3A4,P08684,inhibition,Moderate
+14,D014,148,D148,CYP3A4,P08684,induction,Minor
+14,D014,148,D148,CYP2C9,P11712,inhibition,Minor
+26,D026,29,D029,CYP3A4,P08684,inhibition,Moderate
+65,D065,165,D165,CYP2C9,P11712,inhibition,Moderate
+66,D066,148,D148,CYP3A4,P08684,induction,Moderate
+66,D066,148,D148,CYP2C9,P11712,inhibition,Moderate
+35,D035,165,D165,CYP3A4,P08684,induction,Moderate
+35,D035,165,D165,CYP1A2,P05177,inhibition,Moderate
+26,D026,109,D109,CYP2D6,P10635,inhibition,Moderate
+118,D118,165,D165,CYP3A4,P08684,induction,Moderate
+118,D118,165,D165,CYP3A4,P08684,inhibition,Moderate
+75,D075,145,D145,CYP3A4,P08684,inhibition,Moderate
+75,D075,145,D145,CYP3A4,P08684,induction,Moderate
+4,D004,19,D019,CYP3A4,P08684,induction,Moderate
+4,D004,19,D019,CYP3A4,P08684,inhibition,Moderate
+67,D067,87,Leflunomide,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+67,D067,87,Leflunomide,CYP2C9,P11712,inhibition,Moderate
+55,D055,176,D176,CYP3A4,P08684,inhibition,Major
+55,D055,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+102,D102,134,D134,CYP3A4,P08684,inhibition,Moderate
+26,D026,34,D034,CYP2C9,P11712,inhibition,Moderate
+67,D067,148,D148,CYP3A4,P08684,induction,Moderate
+67,D067,148,D148,CYP2C9,P11712,inhibition,Moderate
+123,D123,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+123,D123,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+123,D123,130,D130,CYP3A4,P08684,induction,Moderate
+123,D123,130,D130,CYP3A4,P08684,inhibition,Moderate
+26,D026,79,D079,CYP3A4,P08684,inhibition,Moderate
+19,D019,81,D081,CYP3A4,P08684,inhibition,Moderate
+81,D081,102,D102,CYP3A4,P08684,inhibition,Moderate
+81,D081,102,D102,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+81,D081,102,D102,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+32,D032,133,D133,CYP2E1,P05181,inhibition,Moderate
+54,D054,130,D130,CYP3A4,P08684,induction,Moderate
+54,D054,130,D130,CYP3A4,P08684,inhibition,Moderate
+26,D026,59,D059,CYP3A4,P08684,inhibition,Moderate
+37,D037,99,D099,CYP3A4,P08684,inhibition,Moderate
+37,D037,99,D099,CYP3A4,P08684,induction,Moderate
+26,D026,91,D091,CYP3A4,P08684,inhibition,Moderate
+26,D026,42,D042,PTGS2,P35354,inhibition,Moderate
+115,D115,165,D165,CYP1A2,P05177,induction,Minor
+115,D115,165,D165,CYP1A2,P05177,inhibition,Minor
+16,D016,119,D119,CYP3A4,P08684,inhibition,Moderate
+26,D026,101,D101,CYP3A4,P08684,inhibition,Moderate
+26,D026,101,D101,CYP2D6,P10635,induction,Moderate
+19,D019,129,D129,CYP3A4,P08684,inhibition,Moderate
+37,D037,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+37,D037,129,D129,CYP3A4,P08684,induction,Moderate
+37,D037,129,D129,CYP3A4,P08684,inhibition,Moderate
+26,D026,85,D085,CYP2D6,P10635,inhibition,Moderate
+37,D037,134,D134,CYP3A4,P08684,induction,Major
+37,D037,134,D134,CYP2B6,P20813,inhibition,Major
+30,D030,173,D173,CYP3A4,P08684,inhibition,Major
+133,D133,165,D165,CYP1A2,P05177,inhibition,Moderate
+57,D057,148,D148,CYP3A4,P08684,induction,Moderate
+57,D057,148,D148,CYP2C9,P11712,inhibition,Moderate
+133,D133,145,D145,CYP3A5,P20815,induction,Moderate
+133,D133,145,D145,CYP2C19,P33261,inhibition,Moderate
+26,D026,135,D135,CYP3A4,P08684,inhibition,Moderate
+22,D022,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+22,D022,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+22,D022,130,D130,CYP3A4,P08684,induction,Moderate
+22,D022,130,D130,CYP3A4,P08684,inhibition,Moderate
+4,D004,129,D129,CYP3A4,P08684,induction,Moderate
+4,D004,129,D129,CYP3A4,P08684,inhibition,Moderate
+4,D004,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+98,D098,133,D133,CYP2C19,P33261,inhibition,Moderate
+122,D122,133,D133,CYP3A5,P20815,induction,Moderate
+122,D122,133,D133,CYP2C19,P33261,inhibition,Moderate
+34,D034,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Minor
+34,D034,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+34,D034,130,D130,CYP3A4,P08684,induction,Minor
+34,D034,130,D130,CYP3A4,P08684,inhibition,Minor
+130,D130,143,D143,ABCG2 (BCRP),Q9UNQ0,transporter_induction,Moderate
+130,D130,143,D143,CYP3A4,P08684,inhibition,Moderate
+130,D130,143,D143,CYP3A4,P08684,induction,Moderate
+130,D130,143,D143,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+51,D051,168,D168,CYP3A4,P08684,inhibition,Moderate
+51,D051,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+51,D051,168,D168,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+26,D026,27,D027,CYP2D6,P10635,inhibition,Moderate
+112,D112,129,D129,CYP3A4,P08684,inhibition,Moderate
+26,D026,48,D048,CYP2D6,P10635,inhibition,Moderate
+29,D029,58,D058,CYP1A2,P05177,inhibition,Minor
+57,D057,147,D147,CYP3A4,P08684,inhibition,Moderate
+57,D057,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+57,D057,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+136,D136,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+136,D136,168,D168,CYP2C19,P33261,inhibition,Moderate
+29,D029,102,D102,CYP3A4,P08684,inhibition,Minor
+29,D029,102,D102,ABCB1 (P-gp),P08183,transporter_induction,Minor
+29,D029,102,D102,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+87,Leflunomide,118,D118,CYP2C9,P11712,inhibition,Major
+147,D147,165,D165,CYP3A4,P08684,inhibition,Moderate
+26,D026,62,D062,CYP3A4,P08684,inhibition,Moderate
+37,D037,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+37,D037,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+37,D037,130,D130,CYP3A4,P08684,induction,Moderate
+37,D037,130,D130,CYP3A4,P08684,inhibition,Moderate
+41,D041,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+93,D093,133,D133,CYP1A2,P05177,inhibition,Moderate
+20,D020,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+20,D020,168,D168,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+20,D020,168,D168,CYP2C9,P11712,inhibition,Moderate
+129,D129,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+129,D129,176,D176,CYP3A4,P08684,inhibition,Moderate
+26,D026,76,D076,CYP2D6,P10635,inhibition,Moderate
+47,D047,133,D133,CYP2C19,P33261,inhibition,Moderate
+22,D022,165,D165,CYP1A2,P05177,inhibition,Major
+22,D022,165,D165,CYP1A2,P05177,induction,Major
+26,D026,60,D060,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+26,D026,60,D060,PTGS2,P35354,inhibition,Moderate
+9,D009,26,D026,CYP2D6,P10635,inhibition,Moderate
+3,D003,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+3,D003,147,D147,CYP3A4,P08684,inhibition,Moderate
+3,D003,147,D147,CYP3A4,P08684,induction,Moderate
+3,D003,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+26,D026,139,D139,CYP2D6,P10635,inhibition,Moderate
+26,D026,104,D104,PTGS2,P35354,inhibition,Moderate
+118,D118,148,D148,CYP3A4,P08684,induction,Minor
+118,D118,148,D148,CYP2C9,P11712,inhibition,Minor
+81,D081,148,D148,CYP3A4,P08684,induction,Moderate
+81,D081,148,D148,CYP3A4,P08684,inhibition,Moderate
+37,D037,102,D102,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+37,D037,102,D102,CYP3A4,P08684,inhibition,Moderate
+37,D037,102,D102,CYP3A4,P08684,induction,Moderate
+37,D037,102,D102,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+107,D107,133,D133,CYP3A5,P20815,induction,Moderate
+107,D107,133,D133,CYP1A2,P05177,inhibition,Moderate
+147,D147,162,D162,CYP3A4,P08684,inhibition,Major
+20,D020,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+20,D020,129,D129,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+20,D020,129,D129,CYP3A4,P08684,inhibition,Moderate
+37,D037,58,D058,CYP2C9,P11712,inhibition,Moderate
+37,D037,58,D058,CYP2C9,P11712,induction,Moderate
+74,D074,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+54,D054,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+129,D129,160,D160,CYP2C9,P11712,inhibition,Moderate
+26,D026,112,D112,CYP2D6,P10635,inhibition,Moderate
+30,D030,165,D165,CYP3A4,P08684,inhibition,Minor
+36,D036,129,D129,CYP3A4,P08684,inhibition,Moderate
+22,D022,133,D133,CYP3A5,P20815,induction,Moderate
+22,D022,133,D133,CYP2C19,P33261,inhibition,Moderate
+37,D037,112,D112,CYP2D6,P10635,inhibition,Minor
+37,D037,112,D112,CYP3A4,P08684,induction,Minor
+119,D119,130,D130,CYP3A4,P08684,induction,Moderate
+119,D119,130,D130,CYP3A4,P08684,inhibition,Moderate
+87,Leflunomide,154,D154,CYP2C9,P11712,inhibition,Moderate
+26,D026,80,D080,CYP3A4,P08684,inhibition,Moderate
+19,D019,29,D029,CYP3A4,P08684,inhibition,Minor
+81,D081,147,D147,CYP3A4,P08684,inhibition,Major
+81,D081,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+81,D081,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Major
+81,D081,165,D165,CYP1A1,P04798,induction,Moderate
+81,D081,165,D165,CYP3A4,P08684,inhibition,Moderate
+22,D022,37,D037,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+22,D022,37,D037,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+22,D022,37,D037,CYP3A4,P08684,induction,Moderate
+22,D022,37,D037,CYP3A4,P08684,inhibition,Moderate
+26,D026,96,D096,PTGS2,P35354,inhibition,Moderate
+40,D040,133,D133,CYP3A5,P20815,induction,Moderate
+40,D040,133,D133,CYP2C19,P33261,inhibition,Moderate
+66,D066,87,Leflunomide,CYP2C9,P11712,inhibition,Moderate
+59,D059,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Major
+59,D059,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+59,D059,130,D130,CYP3A4,P08684,induction,Major
+59,D059,130,D130,CYP3A4,P08684,inhibition,Major
+160,D160,173,D173,CYP2C9,P11712,inhibition,Moderate
+30,D030,75,D075,CYP3A4,P08684,inhibition,Moderate
+30,D030,75,D075,CYP3A4,P08684,induction,Moderate
+14,D014,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+14,D014,129,D129,CYP3A4,P08684,induction,Moderate
+14,D014,129,D129,CYP3A4,P08684,inhibition,Moderate
+101,D101,130,D130,CYP3A4,P08684,induction,Moderate
+101,D101,130,D130,CYP3A4,P08684,inhibition,Moderate
+112,D112,150,D150,CYP3A4,P08684,inhibition,Major
+105,D105,148,D148,CYP3A4,P08684,induction,Moderate
+105,D105,148,D148,CYP3A4,P08684,inhibition,Moderate
+26,D026,52,D052,CYP2C9,P11712,inhibition,Moderate
+26,D026,163,D163,CYP2D6,P10635,inhibition,Moderate
+26,D026,116,D116,CYP2C9,P11712,inhibition,Moderate
+122,D122,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+122,D122,129,D129,CYP3A4,P08684,inhibition,Moderate
+116,D116,130,D130,CYP2C9,P11712,inhibition,Major
+116,D116,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+116,D116,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Major
+89,D089,173,D173,CYP3A4,P08684,inhibition,Moderate
+89,D089,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+40,D040,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+40,D040,129,D129,CYP3A4,P08684,inhibition,Moderate
+109,D109,133,D133,CYP3A5,P20815,induction,Moderate
+109,D109,133,D133,CYP2C19,P33261,inhibition,Moderate
+29,D029,147,D147,CYP3A4,P08684,inhibition,Minor
+29,D029,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+29,D029,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Minor
+87,Leflunomide,92,D092,CYP2C9,P11712,inhibition,Major
+87,Leflunomide,92,D092,CYP2C9,P11712,induction,Major
+14,D014,133,D133,CYP3A5,P20815,induction,Moderate
+14,D014,133,D133,CYP2C19,P33261,inhibition,Moderate
+57,D057,133,D133,CYP3A5,P20815,induction,Moderate
+57,D057,133,D133,CYP2C19,P33261,inhibition,Moderate
+112,D112,176,D176,CYP1A2,P05177,inhibition,Moderate
+155,D155,165,D165,CYP3A4,P08684,induction,Moderate
+155,D155,165,D165,CYP3A4,P08684,inhibition,Moderate
+112,D112,133,D133,CYP1A2,P05177,inhibition,Moderate
+112,D112,133,D133,CYP3A5,P20815,induction,Moderate
+120,D120,129,D129,CYP2C9,P11712,inhibition,Moderate
+120,D120,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+26,D026,113,D113,PTGS2,P35354,inhibition,Moderate
+57,D057,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+107,D107,129,D129,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+107,D107,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+107,D107,129,D129,CYP3A4,P08684,induction,Moderate
+107,D107,129,D129,CYP3A4,P08684,inhibition,Moderate
+18,D018,26,D026,PTGS2,P35354,inhibition,Moderate
+18,D018,26,D026,PTGS2,P35354,induction,Moderate
+14,D014,165,D165,CYP3A4,P08684,induction,Moderate
+14,D014,165,D165,CYP3A4,P08684,inhibition,Moderate
+130,D130,138,D138,CYP3A4,P08684,induction,Moderate
+130,D130,138,D138,CYP3A4,P08684,inhibition,Moderate
+111,D111,168,D168,CYP2C19,P33261,inhibition,Moderate
+90,D090,129,D129,CYP3A4,P08684,induction,Moderate
+90,D090,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+90,D090,129,D129,CYP3A4,P08684,inhibition,Moderate
+65,D065,87,Leflunomide,CYP2C9,P11712,inhibition,Moderate
+120,D120,133,D133,CYP2C9,P11712,inhibition,Moderate
+51,D051,148,D148,CYP3A4,P08684,inhibition,Moderate
+51,D051,148,D148,CYP3A4,P08684,induction,Moderate
+129,D129,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+129,D129,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+129,D129,130,D130,CYP3A4,P08684,induction,Moderate
+129,D129,130,D130,CYP3A4,P08684,inhibition,Moderate
+87,Leflunomide,91,D091,CYP1A2,P05177,inhibition,Moderate
+26,D026,44,D044,CYP3A4,P08684,inhibition,Moderate
+3,D003,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+3,D003,87,Leflunomide,CYP2C9,P11712,induction,Major
+26,D026,94,D094,CYP2C9,P11712,inhibition,Moderate
+78,D078,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+130,D130,133,D133,CYP3A5,P20815,induction,Major
+130,D130,133,D133,CYP2C19,P33261,inhibition,Major
+37,D037,72,D072,CYP2D6,P10635,inhibition,Moderate
+110,D110,130,D130,CYP1A2,P05177,inhibition,Moderate
+110,D110,130,D130,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+19,D019,102,D102,CYP3A4,P08684,inhibition,Moderate
+26,D026,142,D142,CYP2D6,P10635,inhibition,Moderate
+29,D029,176,D176,CYP1A2,P05177,inhibition,Moderate
+29,D029,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+37,D037,78,D078,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+37,D037,78,D078,CYP2C9,P11712,induction,Minor
+37,D037,78,D078,CYP2C19,P33261,inhibition,Minor
+35,D035,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+35,D035,168,D168,CYP3A4,P08684,induction,Moderate
+35,D035,168,D168,CYP2C9,P11712,inhibition,Moderate
+35,D035,168,D168,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+21,D021,26,D026,CYP2D6,P10635,inhibition,Moderate
+4,D004,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+133,D133,150,D150,CYP1A1,P04798,inhibition,Moderate
+86,D086,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+86,D086,129,D129,CYP3A4,P08684,inhibition,Moderate
+86,D086,129,D129,CYP1A2,P05177,induction,Moderate
+26,D026,159,D159,CYP2D6,P10635,induction,Moderate
+26,D026,159,D159,CYP2D6,P10635,inhibition,Moderate
+26,D026,28,D028,CYP3A4,P08684,inhibition,Moderate
+129,D129,147,D147,CYP3A4,P08684,inhibition,Moderate
+129,D129,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+129,D129,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+119,D119,173,D173,CYP3A4,P08684,inhibition,Moderate
+29,D029,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+29,D029,168,D168,CYP3A4,P08684,inhibition,Moderate
+29,D029,132,D132,CYP3A4,P08684,inhibition,Minor
+29,D029,132,D132,CYP3A4,P08684,induction,Minor
+26,D026,46,D046,CYP2D6,P10635,inhibition,Minor
+19,D019,99,D099,CYP3A4,P08684,inhibition,Major
+16,D016,30,D030,CYP2D6,P10635,inhibition,Major
+143,D143,173,D173,CYP3A4,P08684,inhibition,Moderate
+143,D143,173,D173,ABCG2 (BCRP),Q9UNQ0,transporter_induction,Moderate
+143,D143,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+115,D115,168,D168,CYP3A4,P08684,induction,Moderate
+115,D115,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+115,D115,168,D168,CYP2C9,P11712,inhibition,Moderate
+66,D066,165,D165,CYP3A4,P08684,inhibition,Moderate
+86,D086,172,D172,CYP2C8,P10632,inhibition,Major
+86,D086,172,D172,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Major
+86,D086,172,D172,CYP1A2,P05177,induction,Major
+112,D112,173,D173,CYP1A2,P05177,inhibition,Moderate
+35,D035,148,D148,CYP3A4,P08684,induction,Moderate
+35,D035,148,D148,CYP2C9,P11712,inhibition,Moderate
+110,D110,176,D176,CYP1A2,P05177,inhibition,Moderate
+13,D013,26,D026,PTGS2,P35354,inhibition,Moderate
+29,D029,37,D037,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+29,D029,37,D037,CYP3A4,P08684,induction,Minor
+29,D029,37,D037,CYP3A4,P08684,inhibition,Minor
+75,D075,133,D133,CYP3A5,P20815,induction,Major
+75,D075,133,D133,CYP2C19,P33261,inhibition,Major
+133,D133,162,D162,CYP3A5,P20815,induction,Moderate
+133,D133,162,D162,CYP2C9,P11712,inhibition,Moderate
+57,D057,173,D173,CYP3A4,P08684,inhibition,Moderate
+57,D057,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+14,D014,164,D164,CYP3A4,P08684,induction,Moderate
+14,D014,164,D164,CYP3A4,P08684,inhibition,Moderate
+148,D148,166,D166,CYP3A4,P08684,induction,Major
+148,D148,166,D166,CYP2C9,P11712,inhibition,Major
+87,Leflunomide,113,D113,CYP2C9,P11712,inhibition,Major
+26,D026,130,D130,CYP3A4,P08684,induction,Major
+26,D026,130,D130,CYP3A4,P08684,inhibition,Major
+16,D016,82,D082,CYP3A4,P08684,inhibition,Moderate
+74,D074,129,D129,CYP2C9,P11712,inhibition,Moderate
+74,D074,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+150,D150,170,D170,CYP3A4,P08684,inhibition,Major
+26,D026,54,D054,CYP2C9,P11712,inhibition,Moderate
+29,D029,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+29,D029,173,D173,CYP1A2,P05177,inhibition,Moderate
+75,D075,149,D149,CYP3A4,P08684,inhibition,Moderate
+75,D075,149,D149,CYP3A4,P08684,induction,Moderate
+26,D026,144,D144,CYP3A4,P08684,inhibition,Moderate
+86,D086,168,D168,CYP3A4,P08684,induction,Moderate
+86,D086,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+86,D086,168,D168,CYP2C9,P11712,inhibition,Moderate
+1,D001,37,D037,CYP3A4,P08684,induction,Moderate
+1,D001,37,D037,CYP3A4,P08684,inhibition,Moderate
+67,D067,165,D165,CYP3A4,P08684,inhibition,Moderate
+14,D014,147,D147,CYP3A4,P08684,inhibition,Moderate
+14,D014,147,D147,CYP3A4,P08684,induction,Moderate
+14,D014,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+14,D014,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+76,D076,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+76,D076,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+76,D076,130,D130,CYP3A4,P08684,induction,Moderate
+76,D076,130,D130,CYP3A4,P08684,inhibition,Moderate
+87,Leflunomide,133,D133,CYP2C9,P11712,inhibition,Major
+121,D121,133,D133,CYP3A5,P20815,induction,Moderate
+121,D121,133,D133,CYP2C19,P33261,inhibition,Moderate
+16,D016,155,D155,CYP3A4,P08684,induction,Moderate
+16,D016,155,D155,CYP3A4,P08684,inhibition,Moderate
+147,D147,149,D149,CYP3A4,P08684,inhibition,Minor
+147,D147,149,D149,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+147,D147,149,D149,ABCB1 (P-gp),P08183,transporter_induction,Minor
+92,D092,102,D102,CYP3A4,P08684,inhibition,Moderate
+92,D092,102,D102,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+92,D092,102,D102,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+73,D073,173,D173,CYP2D6,P10635,inhibition,Moderate
+133,D133,152,D152,CYP3A5,P20815,induction,Moderate
+133,D133,152,D152,CYP2C19,P33261,inhibition,Moderate
+75,D075,102,D102,CYP3A4,P08684,inhibition,Moderate
+75,D075,102,D102,CYP3A4,P08684,induction,Moderate
+49,D049,147,D147,CYP3A4,P08684,inhibition,Moderate
+49,D049,147,D147,CYP3A4,P08684,induction,Moderate
+26,D026,129,D129,CYP3A4,P08684,inhibition,Moderate
+7,D007,129,D129,CYP3A4,P08684,inhibition,Moderate
+75,D075,119,D119,CYP3A4,P08684,inhibition,Moderate
+75,D075,119,D119,CYP3A4,P08684,induction,Moderate
+116,D116,129,D129,CYP2C9,P11712,inhibition,Moderate
+116,D116,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+99,D099,130,D130,CYP3A4,P08684,induction,Minor
+99,D099,130,D130,CYP3A4,P08684,inhibition,Minor
+102,D102,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+102,D102,129,D129,CYP3A4,P08684,inhibition,Moderate
+102,D102,129,D129,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+20,D020,147,D147,CYP3A4,P08684,inhibition,Minor
+20,D020,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+20,D020,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Minor
+14,D014,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+14,D014,87,Leflunomide,CYP2C9,P11712,induction,Major
+148,D148,169,D169,CYP3A4,P08684,induction,Moderate
+148,D148,169,D169,CYP3A4,P08684,inhibition,Moderate
+53,D053,133,D133,CYP3A5,P20815,induction,Moderate
+53,D053,133,D133,CYP2C9,P11712,inhibition,Moderate
+76,D076,133,D133,CYP2C19,P33261,inhibition,Moderate
+22,D022,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+22,D022,87,Leflunomide,CYP1A2,P05177,induction,Major
+58,D058,110,D110,CYP1A2,P05177,inhibition,Minor
+46,D046,173,D173,CYP3A4,P08684,inhibition,Moderate
+155,D155,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+155,D155,176,D176,CYP3A4,P08684,induction,Moderate
+155,D155,176,D176,CYP3A4,P08684,inhibition,Moderate
+75,D075,134,D134,CYP2B6,P20813,inhibition,Major
+75,D075,134,D134,CYP3A4,P08684,induction,Major
+57,D057,75,D075,CYP3A4,P08684,inhibition,Moderate
+57,D057,75,D075,CYP3A4,P08684,induction,Moderate
+14,D014,16,D016,CYP3A4,P08684,induction,Moderate
+14,D014,16,D016,CYP3A4,P08684,inhibition,Moderate
+16,D016,137,D137,CYP3A4,P08684,inhibition,Moderate
+26,D026,39,D039,CYP2D6,P10635,inhibition,Moderate
+20,D020,133,D133,CYP3A5,P20815,induction,Moderate
+20,D020,133,D133,CYP2C19,P33261,inhibition,Moderate
+126,D126,133,D133,CYP1A2,P05177,inhibition,Moderate
+82,D082,148,D148,CYP3A4,P08684,induction,Moderate
+82,D082,148,D148,CYP2C9,P11712,inhibition,Moderate
+71,D071,130,D130,CYP2D6,P10635,inhibition,Major
+3,D003,58,D058,CYP2C9,P11712,inhibition,Moderate
+3,D003,58,D058,CYP2C9,P11712,induction,Moderate
+105,D105,133,D133,CYP3A5,P20815,inhibition,Moderate
+105,D105,133,D133,CYP3A5,P20815,induction,Moderate
+17,D017,129,D129,CYP3A4,P08684,inhibition,Moderate
+9,D009,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+9,D009,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+9,D009,130,D130,CYP3A4,P08684,induction,Moderate
+9,D009,130,D130,CYP3A4,P08684,inhibition,Moderate
+26,D026,31,D031,CYP2D6,P10635,inhibition,Moderate
+90,D090,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+90,D090,176,D176,CYP3A4,P08684,induction,Moderate
+90,D090,176,D176,CYP3A4,P08684,inhibition,Moderate
+138,D138,173,D173,CYP3A4,P08684,inhibition,Moderate
+57,D057,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+57,D057,168,D168,CYP2C9,P11712,inhibition,Moderate
+107,D107,147,D147,CYP3A4,P08684,inhibition,Moderate
+107,D107,147,D147,CYP3A4,P08684,induction,Moderate
+107,D107,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+107,D107,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+15,D015,175,D175,HPRT1,P00492,inhibition,Major
+37,D037,54,D054,CYP3A4,P08684,induction,Moderate
+37,D037,54,D054,CYP2C9,P11712,inhibition,Moderate
+19,D019,37,D037,CYP3A4,P08684,induction,Moderate
+19,D019,37,D037,CYP3A4,P08684,inhibition,Moderate
+129,D129,140,D140,CYP2C9,P11712,inhibition,Moderate
+22,D022,147,D147,CYP3A4,P08684,induction,Moderate
+22,D022,147,D147,CYP3A4,P08684,inhibition,Moderate
+22,D022,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+22,D022,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+56,D056,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+56,D056,173,D173,CYP2D6,P10635,inhibition,Moderate
+16,D016,171,D171,CYP3A4,P08684,inhibition,Moderate
+87,Leflunomide,166,D166,CYP2C9,P11712,induction,Major
+87,Leflunomide,166,D166,CYP2C9,P11712,inhibition,Major
+44,D044,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+46,D046,168,D168,CYP2C9,P11712,inhibition,Minor
+45,D045,102,D102,CYP3A4,P08684,inhibition,Major
+59,D059,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+59,D059,173,D173,CYP1A2,P05177,inhibition,Moderate
+28,D028,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Major
+28,D028,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+28,D028,130,D130,CYP3A4,P08684,induction,Major
+28,D028,130,D130,CYP3A4,P08684,inhibition,Major
+55,D055,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+55,D055,129,D129,CYP3A4,P08684,inhibition,Major
+123,D123,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+123,D123,129,D129,CYP3A4,P08684,inhibition,Moderate
+37,D037,75,D075,CYP3A4,P08684,inhibition,Moderate
+37,D037,75,D075,CYP3A4,P08684,induction,Moderate
+107,D107,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+107,D107,168,D168,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+107,D107,168,D168,CYP3A4,P08684,induction,Moderate
+107,D107,168,D168,CYP2C9,P11712,inhibition,Moderate
+129,D129,132,D132,CYP3A4,P08684,inhibition,Moderate
+129,D129,132,D132,CYP3A4,P08684,induction,Moderate
+147,D147,155,D155,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+147,D147,155,D155,CYP3A4,P08684,induction,Moderate
+147,D147,155,D155,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+147,D147,155,D155,CYP3A4,P08684,inhibition,Moderate
+26,D026,124,D124,CYP3A4,P08684,induction,Moderate
+26,D026,124,D124,CYP3A4,P08684,inhibition,Moderate
+129,D129,136,D136,CYP2D6,P10635,inhibition,Moderate
+129,D129,136,D136,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+26,D026,156,D156,CYP3A4,P08684,inhibition,Minor
+26,D026,49,D049,CYP3A4,P08684,induction,Moderate
+26,D026,49,D049,CYP3A4,P08684,inhibition,Moderate
+87,Leflunomide,167,D167,CYP2C9,P11712,inhibition,Major
+3,D003,148,D148,CYP3A4,P08684,induction,Moderate
+3,D003,148,D148,CYP2C9,P11712,inhibition,Moderate
+5,D005,176,D176,CYP3A4,P08684,inhibition,Moderate
+121,D121,165,D165,CYP1A2,P05177,inhibition,Minor
+121,D121,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+121,D121,129,D129,CYP3A4,P08684,inhibition,Moderate
+155,D155,164,D164,CYP3A4,P08684,induction,Moderate
+155,D155,164,D164,CYP3A4,P08684,inhibition,Moderate
+129,D129,154,D154,CYP2C19,P33261,inhibition,Moderate
+133,D133,160,D160,CYP2C9,P11712,inhibition,Major
+14,D014,102,D102,CYP3A4,P08684,inhibition,Moderate
+14,D014,102,D102,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+14,D014,102,D102,CYP3A4,P08684,induction,Moderate
+14,D014,102,D102,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+87,Leflunomide,155,D155,CYP2C9,P11712,inhibition,Major
+87,Leflunomide,155,D155,CYP2C9,P11712,induction,Major
+118,D118,129,D129,CYP3A4,P08684,inhibition,Moderate
+118,D118,129,D129,CYP3A4,P08684,induction,Moderate
+37,D037,66,D066,CYP3A4,P08684,induction,Moderate
+37,D037,66,D066,CYP3A4,P08684,inhibition,Moderate
+129,D129,155,D155,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+129,D129,155,D155,CYP3A4,P08684,induction,Moderate
+129,D129,155,D155,CYP3A4,P08684,inhibition,Moderate
+103,D103,165,D165,CYP1A2,P05177,induction,Minor
+103,D103,165,D165,CYP1A2,P05177,inhibition,Minor
+55,D055,75,D075,CYP3A4,P08684,inhibition,Moderate
+55,D055,75,D075,CYP3A4,P08684,induction,Moderate
+5,D005,16,D016,CYP3A4,P08684,inhibition,Moderate
+38,D038,147,D147,CYP3A4,P08684,inhibition,Moderate
+37,D037,108,D108,CYP3A4,P08684,induction,Minor
+37,D037,108,D108,CYP3A4,P08684,inhibition,Minor
+120,D120,173,D173,CYP2C9,P11712,inhibition,Moderate
+120,D120,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+12,D012,130,D130,CYP3A4,P08684,induction,Moderate
+12,D012,130,D130,CYP3A4,P08684,inhibition,Moderate
+102,D102,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+102,D102,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+102,D102,130,D130,CYP3A4,P08684,induction,Moderate
+102,D102,130,D130,CYP3A4,P08684,inhibition,Moderate
+80,D080,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+129,D129,166,D166,CYP3A4,P08684,induction,Moderate
+129,D129,166,D166,CYP3A4,P08684,inhibition,Moderate
+29,D029,150,D150,CYP3A4,P08684,inhibition,Major
+29,D029,150,D150,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+132,D132,149,D149,CYP3A4,P08684,inhibition,Moderate
+132,D132,149,D149,CYP3A4,P08684,induction,Moderate
+19,D019,75,D075,CYP3A4,P08684,inhibition,Moderate
+19,D019,75,D075,CYP3A4,P08684,induction,Moderate
+26,D026,100,D100,CYP3A4,P08684,inhibition,Moderate
+75,D075,114,D114,CYP3A4,P08684,inhibition,Moderate
+75,D075,114,D114,CYP3A4,P08684,induction,Moderate
+5,D005,61,D061,CYP3A4,P08684,inhibition,Moderate
+127,D127,130,D130,CYP3A4,P08684,induction,Moderate
+127,D127,130,D130,CYP3A4,P08684,inhibition,Moderate
+91,D091,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+91,D091,129,D129,CYP3A4,P08684,inhibition,Moderate
+73,D073,130,D130,CYP2D6,P10635,inhibition,Moderate
+28,D028,58,D058,CYP2C9,P11712,inhibition,Minor
+28,D028,58,D058,SLC22A7,Q9Y694,transporter_inhibition,Minor
+24,D024,110,D110,CYP1A2,P05177,inhibition,Minor
+32,D032,129,D129,CYP3A4,P08684,inhibition,Moderate
+57,D057,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+57,D057,129,D129,CYP3A4,P08684,inhibition,Moderate
+92,D092,147,D147,CYP3A4,P08684,inhibition,Moderate
+92,D092,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+92,D092,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+16,D016,143,D143,CYP3A4,P08684,inhibition,Moderate
+51,D051,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+51,D051,129,D129,CYP3A4,P08684,inhibition,Moderate
+51,D051,129,D129,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+57,D057,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+57,D057,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+57,D057,130,D130,CYP3A4,P08684,induction,Moderate
+57,D057,130,D130,CYP3A4,P08684,inhibition,Moderate
+44,D044,133,D133,CYP3A5,P20815,induction,Moderate
+44,D044,133,D133,CYP2C19,P33261,inhibition,Moderate
+119,D119,150,D150,CYP3A4,P08684,inhibition,Major
+101,D101,129,D129,CYP2D6,P10635,induction,Moderate
+101,D101,129,D129,CYP3A4,P08684,inhibition,Moderate
+38,D038,129,D129,CYP3A4,P08684,inhibition,Moderate
+38,D038,129,D129,CYP2C9,P11712,induction,Moderate
+130,D130,159,D159,CYP2D6,P10635,induction,Moderate
+130,D130,159,D159,CYP2D6,P10635,inhibition,Moderate
+53,D053,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+53,D053,129,D129,CYP3A4,P08684,inhibition,Moderate
+35,D035,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+133,D133,173,D173,CYP3A5,P20815,induction,Moderate
+133,D133,173,D173,CYP1A2,P05177,inhibition,Moderate
+26,D026,108,D108,CYP3A4,P08684,inhibition,Moderate
+26,D026,128,D128,CYP2C9,P11712,inhibition,Moderate
+152,D152,173,D173,CYP3A4,P08684,inhibition,Moderate
+152,D152,173,D173,CYP3A4,P08684,induction,Moderate
+38,D038,133,D133,CYP3A5,P20815,induction,Moderate
+38,D038,133,D133,CYP2C19,P33261,inhibition,Moderate
+26,D026,117,D117,CYP2D6,P10635,inhibition,Moderate
+101,D101,173,D173,CYP2D6,P10635,induction,Moderate
+101,D101,173,D173,CYP1A2,P05177,inhibition,Moderate
+130,D130,142,D142,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+130,D130,142,D142,CYP3A4,P08684,induction,Moderate
+130,D130,142,D142,CYP3A4,P08684,inhibition,Moderate
+130,D130,142,D142,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+40,D040,165,D165,CYP1A2,P05177,inhibition,Minor
+31,D031,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+31,D031,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+31,D031,130,D130,CYP3A4,P08684,induction,Moderate
+31,D031,130,D130,CYP3A4,P08684,inhibition,Moderate
+92,D092,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+92,D092,129,D129,CYP2C9,P11712,induction,Moderate
+92,D092,129,D129,CYP3A4,P08684,inhibition,Moderate
+22,D022,168,D168,CYP3A4,P08684,induction,Moderate
+22,D022,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+22,D022,168,D168,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+22,D022,168,D168,CYP2C9,P11712,inhibition,Moderate
+103,D103,129,D129,CYP1A2,P05177,induction,Minor
+103,D103,129,D129,CYP3A4,P08684,inhibition,Minor
+46,D046,129,D129,CYP3A4,P08684,inhibition,Minor
+58,D058,133,D133,CYP2C9,P11712,inhibition,Major
+20,D020,172,D172,CYP2C8,P10632,inhibition,Moderate
+20,D020,172,D172,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+20,D020,172,D172,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+22,D022,129,D129,ABCB1 (P-gp),P08183,transporter_induction,Major
+22,D022,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+22,D022,129,D129,CYP3A4,P08684,inhibition,Major
+22,D022,129,D129,CYP1A2,P05177,induction,Major
+29,D029,75,D075,CYP3A4,P08684,inhibition,Minor
+29,D029,75,D075,CYP3A4,P08684,induction,Minor
+41,D041,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+41,D041,129,D129,CYP3A4,P08684,inhibition,Moderate
+5,D005,150,D150,CYP3A4,P08684,inhibition,Moderate
+80,D080,133,D133,CYP2E1,P05181,induction,Moderate
+80,D080,133,D133,CYP2C19,P33261,inhibition,Moderate
+6,D006,16,D016,CYP3A4,P08684,inhibition,Moderate
+23,D023,133,D133,CYP2C19,P33261,inhibition,Moderate
+57,D057,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+57,D057,176,D176,CYP3A4,P08684,inhibition,Moderate
+147,D147,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+147,D147,176,D176,CYP3A4,P08684,inhibition,Moderate
+147,D147,176,D176,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+108,D108,132,D132,CYP3A4,P08684,inhibition,Minor
+108,D108,132,D132,CYP3A4,P08684,induction,Minor
+99,D099,160,D160,CYP2C9,P11712,inhibition,Moderate
+75,D075,143,D143,CYP3A4,P08684,inhibition,Moderate
+75,D075,143,D143,CYP3A4,P08684,induction,Moderate
+102,D102,107,D107,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+102,D102,107,D107,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+102,D102,107,D107,CYP3A4,P08684,induction,Moderate
+102,D102,107,D107,CYP3A4,P08684,inhibition,Moderate
+30,D030,150,D150,CYP3A4,P08684,inhibition,Major
+124,D124,148,D148,CYP3A4,P08684,induction,Moderate
+124,D124,148,D148,CYP2C9,P11712,inhibition,Moderate
+143,D143,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+143,D143,176,D176,CYP3A4,P08684,inhibition,Moderate
+143,D143,176,D176,ABCG2 (BCRP),Q9UNQ0,transporter_induction,Moderate
+48,D048,133,D133,CYP2C19,P33261,inhibition,Moderate
+31,D031,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+31,D031,129,D129,CYP3A4,P08684,inhibition,Moderate
+86,D086,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+86,D086,176,D176,CYP3A4,P08684,inhibition,Major
+86,D086,176,D176,CYP1A2,P05177,induction,Major
+129,D129,152,D152,CYP3A4,P08684,induction,Moderate
+129,D129,152,D152,CYP2C19,P33261,inhibition,Moderate
+129,D129,162,D162,CYP3A4,P08684,inhibition,Moderate
+51,D051,165,D165,CYP1A2,P05177,inhibition,Moderate
+172,D172,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+172,D172,173,D173,CYP1A2,P05177,inhibition,Moderate
+37,D037,166,D166,CYP3A4,P08684,induction,Moderate
+37,D037,166,D166,CYP3A4,P08684,inhibition,Moderate
+45,D045,150,D150,CYP3A4,P08684,inhibition,Major
+129,D129,143,D143,ABCG2 (BCRP),Q9UNQ0,transporter_induction,Moderate
+129,D129,143,D143,CYP3A4,P08684,inhibition,Moderate
+129,D129,143,D143,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+45,D045,130,D130,CYP3A4,P08684,induction,Major
+45,D045,130,D130,CYP3A4,P08684,inhibition,Major
+137,D137,168,D168,CYP2C9,P11712,inhibition,Minor
+29,D029,134,D134,CYP3A4,P08684,inhibition,Minor
+75,D075,116,D116,CYP2C9,P11712,induction,Moderate
+75,D075,116,D116,CYP2C9,P11712,inhibition,Moderate
+37,D037,87,Leflunomide,CYP2C9,P11712,induction,Major
+37,D037,87,Leflunomide,CYP2C9,P11712,inhibition,Major
+29,D029,172,D172,CYP1A2,P05177,inhibition,Moderate
+29,D029,172,D172,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+48,D048,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+48,D048,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+48,D048,130,D130,CYP3A4,P08684,induction,Moderate
+48,D048,130,D130,CYP3A4,P08684,inhibition,Moderate
+37,D037,77,D077,CYP3A4,P08684,induction,Moderate
+37,D037,77,D077,CYP3A4,P08684,inhibition,Moderate
+129,D129,137,D137,CYP3A4,P08684,inhibition,Moderate
+124,D124,147,D147,CYP3A4,P08684,inhibition,Major
+124,D124,147,D147,CYP3A4,P08684,induction,Major
+124,D124,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+124,D124,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Major
+71,D071,129,D129,CYP2D6,P10635,inhibition,Moderate
+22,D022,173,D173,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+22,D022,173,D173,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+22,D022,173,D173,CYP1A2,P05177,inhibition,Moderate
+22,D022,173,D173,CYP1A2,P05177,induction,Moderate
+75,D075,132,D132,CYP3A4,P08684,inhibition,Moderate
+75,D075,132,D132,CYP3A4,P08684,induction,Moderate
+103,D103,173,D173,CYP1A2,P05177,induction,Moderate
+103,D103,173,D173,CYP1A2,P05177,inhibition,Moderate
+7,D007,75,D075,CYP3A4,P08684,inhibition,Moderate
+7,D007,75,D075,CYP3A4,P08684,induction,Moderate
+57,D057,149,D149,CYP3A4,P08684,inhibition,Moderate
+57,D057,149,D149,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+57,D057,149,D149,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+49,D049,148,D148,CYP3A4,P08684,induction,Moderate
+49,D049,148,D148,CYP2C9,P11712,inhibition,Moderate
+109,D109,130,D130,CYP3A4,P08684,induction,Moderate
+109,D109,130,D130,CYP3A4,P08684,inhibition,Moderate
+75,D075,120,D120,CYP2C9,P11712,induction,Moderate
+75,D075,120,D120,CYP2C9,P11712,inhibition,Moderate
+24,D024,29,D029,CYP1A2,P05177,inhibition,Minor
+152,D152,168,D168,CYP3A4,P08684,induction,Moderate
+152,D152,168,D168,CYP2C19,P33261,inhibition,Moderate
+3,D003,172,D172,CYP2C8,P10632,inhibition,Moderate
+3,D003,172,D172,CYP3A4,P08684,induction,Moderate
+3,D003,168,D168,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+3,D003,168,D168,CYP3A4,P08684,induction,Moderate
+3,D003,168,D168,CYP2C9,P11712,inhibition,Moderate
+26,D026,162,D162,CYP3A4,P08684,inhibition,Moderate
+5,D005,173,D173,CYP3A4,P08684,inhibition,Moderate
+108,D108,173,D173,CYP1A2,P05177,inhibition,Moderate
+130,D130,154,D154,CYP2C19,P33261,inhibition,Moderate
+41,D041,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+41,D041,176,D176,CYP1A2,P05177,inhibition,Major
+106,D106,149,D149,CYP3A4,P08684,inhibition,Moderate
+106,D106,149,D149,CYP3A4,P08684,induction,Moderate
+130,D130,139,D139,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+130,D130,139,D139,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+130,D130,139,D139,CYP3A4,P08684,induction,Moderate
+130,D130,139,D139,CYP3A4,P08684,inhibition,Moderate
+124,D124,149,D149,CYP3A4,P08684,inhibition,Major
+124,D124,149,D149,CYP3A4,P08684,induction,Major
+124,D124,149,D149,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+124,D124,149,D149,ABCB1 (P-gp),P08183,transporter_induction,Major
+108,D108,130,D130,CYP3A4,P08684,induction,Moderate
+108,D108,130,D130,CYP3A4,P08684,inhibition,Moderate
+162,D162,172,D172,CYP3A4,P08684,inhibition,Moderate
+89,D089,150,D150,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+89,D089,150,D150,CYP3A4,P08684,inhibition,Moderate
+3,D003,160,D160,CYP2C9,P11712,inhibition,Moderate
+3,D003,160,D160,CYP2C9,P11712,induction,Moderate
+95,D095,133,D133,CYP2C19,P33261,inhibition,Moderate
+81,D081,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+81,D081,176,D176,CYP3A4,P08684,inhibition,Major
+81,D081,176,D176,CYP1A1,P04798,induction,Major
+102,D102,108,D108,CYP3A4,P08684,inhibition,Minor
+55,D055,133,D133,CYP3A5,P20815,induction,Moderate
+115,D115,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+115,D115,176,D176,CYP1A2,P05177,induction,Major
+115,D115,172,D172,CYP1A2,P05177,induction,Major
+115,D115,172,D172,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Major
+7,D007,133,D133,CYP3A5,P20815,induction,Moderate
+123,D123,133,D133,CYP3A5,P20815,induction,Moderate
+26,D026,166,D166,CYP3A4,P08684,induction,Moderate
+133,D133,147,D147,CYP3A5,P20815,induction,Major
+33,D033,133,D133,CYP3A5,P20815,induction,Moderate
+3,D003,19,D019,CYP3A4,P08684,induction,Moderate
+148,D148,152,D152,CYP3A4,P08684,induction,Moderate
+68,D068,133,D133,CYP3A5,P20815,induction,Moderate
+37,D037,65,D065,CYP2C9,P11712,induction,Moderate
+22,D022,158,D158,CYP3A4,P08684,induction,Moderate
+88,D088,152,D152,CYP3A4,P08684,induction,Moderate
+78,D078,97,Methotrexate,ABCC2 (MRP2),Q92887,transporter_inhibition,Major
+86,D086,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+149,D149,153,D153,ABCC2 (MRP2),Q92887,transporter_induction,Moderate
+149,D149,153,D153,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+97,Methotrexate,108,D108,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Moderate
+97,Methotrexate,175,D175,SLCO1B3? (OATP),Q8TCC7,transporter_inhibition,Minor
+97,Methotrexate,157,D157,ABCC2 (MRP2),Q92887,transporter_inhibition,Minor
+97,Methotrexate,129,D129,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+44,D044,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Moderate
+2,D002,110,D110,ABCC1,P33527,transporter_inhibition,Moderate
+92,D092,97,Methotrexate,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+4,D004,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Moderate
+97,Methotrexate,102,D102,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+97,Methotrexate,102,D102,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+58,D058,102,D102,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+83,D083,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Major
+2,D002,97,Methotrexate,ABCC1,P33527,transporter_inhibition,Moderate
+97,Methotrexate,110,D110,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+97,Methotrexate,155,D155,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+51,D051,97,Methotrexate,ABCC1,P33527,transporter_inhibition,Moderate
+51,D051,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+97,Methotrexate,115,D115,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+2,D002,102,D102,ABCC1,P33527,transporter_inhibition,Moderate
+42,D042,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Major
+97,Methotrexate,130,D130,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+97,Methotrexate,130,D130,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+110,D110,153,D153,ABCC2 (MRP2),Q92887,transporter_inhibition,Minor
+63,D063,153,D153,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+110,D110,150,D150,ABCC2 (MRP2),Q92887,transporter_induction,Major
+110,D110,150,D150,ABCC2 (MRP2),Q92887,transporter_inhibition,Major
+81,D081,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+21,D021,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Moderate
+70,D070,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Moderate
+22,D022,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+22,D022,97,Methotrexate,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+8,D008,97,Methotrexate,SLC22A7,Q9Y694,transporter_inhibition,Moderate
+155,D155,174,D174,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+97,Methotrexate,141,D141,ABCB1 (P-gp),P08183,transporter_induction,Major
+97,Methotrexate,141,D141,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+110,D110,147,D147,ABCC2 (MRP2),Q92887,transporter_inhibition,Minor
+97,Methotrexate,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+97,Methotrexate,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+153,D153,165,D165,SLC31A1,O15431,transporter_inhibition,Moderate
+35,D035,97,Methotrexate,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+35,D035,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+27,D027,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+57,D057,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+2,D002,20,D020,ABCC1,P33527,transporter_inhibition,Moderate
+115,D115,153,D153,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+102,D102,110,D110,ABCC1,P33527,transporter_inhibition,Minor
+26,D026,43,D043,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+3,D003,97,Methotrexate,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+2,D002,124,D124,ABCC1,P33527,transporter_inhibition,Moderate
+2,D002,124,D124,ABCC1,P33527,transporter_induction,Moderate
+97,Methotrexate,125,D125,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+74,D074,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+67,D067,151,D151,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+147,D147,153,D153,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+97,Methotrexate,153,D153,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+97,Methotrexate,118,D118,SLCO1B1,Q9Y6L6,transporter_inhibition,Moderate
+86,D086,153,D153,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+50,D050,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Moderate
+29,D029,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+41,D041,97,Methotrexate,ABCC1,P33527,transporter_inhibition,Major
+22,D022,151,D151,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+22,D022,151,D151,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+52,D052,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Major
+2,D002,149,D149,ABCC1,P33527,transporter_inhibition,Minor
+2,D002,149,D149,ABCC1,P33527,transporter_induction,Minor
+74,D074,97,Methotrexate,ABCC1,P33527,transporter_inhibition,Major
+3,D003,151,D151,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+2,D002,147,D147,ABCC1,P33527,transporter_inhibition,Minor
+13,D013,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Major
+64,D064,97,Methotrexate,SLCO1B1,Q9Y6L6,transporter_inhibition,Moderate
+92,D092,174,D174,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+116,D116,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+60,D060,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Major
+13,D013,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+129,D129,153,D153,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+14,D014,174,D174,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+97,Methotrexate,161,D161,ABCC1,P33527,transporter_inhibition,Moderate
+26,D026,97,Methotrexate,ABCC4 (MRP4),O15439,transporter_inhibition,Moderate
+97,Methotrexate,149,D149,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+97,Methotrexate,149,D149,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+63,D063,150,D150,ABCC2 (MRP2),Q92887,transporter_inhibition,Major
+63,D063,150,D150,ABCC2 (MRP2),Q92887,transporter_induction,Major
+102,D102,153,D153,ABCG2 (BCRP),Q9UNQ0,transporter_inhibition,Moderate
+153,D153,173,D173,ABCC2 (MRP2),Q92887,transporter_inhibition,Major
+97,Methotrexate,124,D124,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+97,Methotrexate,124,D124,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+89,D089,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+58,D058,97,Methotrexate,ABCC3,O15438,transporter_inhibition,Moderate
+82,D082,97,Methotrexate,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+11,D011,97,Methotrexate,SLCO1B1 (OATP1B1),Q4U2R8,transporter_inhibition,Major
+34,D034,176,D176,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+130,D130,146,D146,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+130,D130,146,D146,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+37,D037,146,D146,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+14,D014,97,Methotrexate,ABCC2 (MRP2),Q92887,transporter_inhibition,Moderate
+58,D058,147,D147,ABCC3,O15438,transporter_inhibition,Minor
+130,D130,174,D174,ABCB1 (P-gp),P08183,transporter_inhibition,Major
+130,D130,174,D174,ABCB1 (P-gp),P08183,transporter_induction,Major
+2,D002,51,D051,ABCC1,P33527,transporter_inhibition,Moderate
+29,D029,146,D146,ABCB1 (P-gp),P08183,transporter_inhibition,Minor
+102,D102,146,D146,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+102,D102,146,D146,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+97,Methotrexate,146,D146,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+146,D146,147,D147,ABCB1 (P-gp),P08183,transporter_inhibition,Moderate
+146,D146,147,D147,ABCB1 (P-gp),P08183,transporter_induction,Moderate
+97,Methotrexate,105,D105,ABCB1 (P-gp),P08183,transporter_induction,Moderate
