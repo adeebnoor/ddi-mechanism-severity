@@ -1,10 +1,16 @@
 # Mechanism class, attributed protein and the clinical severity of drug–drug interactions
 
-Code and aggregate results for:
+> **Earlier version — superseded.** This repository holds the code and aggregate results of an earlier, unpublished version of this analysis (working title: *Inferred Enzyme and Transporter Mechanisms and the Clinical Severity of Drug–Drug Interactions: A Cross-Resource Analysis with Drug-Level Sensitivity Testing*). That version was not submitted for publication.
+>
+> The analysis has since been revised: the mechanism-class population was rebuilt from the official DDInter 2.0 downloads (2255 graded pairs instead of 963), compounds with ambiguous identifier mappings were excluded from the protein cohort (496 pairs instead of 549), and Bayesian shared-drug models were applied to both the class and the protein analyses. The cohorts and estimates below therefore differ from those of the current manuscript and should not be cited as its results. The code, aggregate results and source manifests for the current analysis accompany that article as Supplementary Materials.
+>
+> This repository is kept for transparency and is no longer updated.
 
-> Noor, A. Inferred Enzyme and Transporter Mechanisms and the Clinical Severity of Drug–Drug Interactions: A Cross-Resource Analysis with Drug-Level Sensitivity Testing. *Pharmaceuticals* (submitted).
+Code and aggregate results of the earlier version (Adeeb Noor, King Abdulaziz University).
 
 ## Contents
+
+Table and figure numbers refer to the earlier version, not to the current manuscript.
 
 | Path | What it is |
 |---|---|
